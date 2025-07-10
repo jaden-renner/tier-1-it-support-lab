@@ -32,4 +32,4 @@ This project aims to simulate a realistic Tier 1 IT support environment to pract
   - Exapnd the lab with network services like Samba and log monitoring.
  
   ## License
-  This project is licensed under the **Creative Commons Attribution-NonCommericial 4.0 International License**. See License file for details.
+  This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**. See the [LICENSE](./LICENSE.md) file for details.
