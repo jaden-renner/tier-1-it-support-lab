@@ -2,6 +2,17 @@
 
 Tier 1 IT support training lab using Linux (Ubuntu), CLI, JIRA, and scripting for realistic IT scenarios.
 
+## About This Project
+
+This project serves two main goals:
+
+1. **Showcase my skills** in IT support, system administration, and scripting by building realistic, hands-on scenarios that demonstrate troubleshooting and problem-solving abilities.
+
+2. **Provide a free, practical resource** for others who are learning or training in IT support, offering customizable scripts, documentation, and environments to practice with.
+
+By sharing this work openly, I hope to contribute to a broader community of learners and professionals who want accessible tools to develop their skills and confidence.
+
+
 ## Project Disclaimer
 
 **Base Two** is a completely fictional company created solely for the purpose of this IT Home Lab project.  
