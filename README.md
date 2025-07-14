@@ -43,7 +43,7 @@ This project aims to simulate a realistic Tier 1 IT support environment to pract
 
 ## Future Plans
 
-- Complete the Python ticket generator script.  
+- Complete the Python ticket generator script. ✓
 - Integrate more complex permissions and auditing tools.  
 - Expand the lab with network services like Samba and log monitoring.
 
