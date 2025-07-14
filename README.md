@@ -33,6 +33,15 @@ This project aims to simulate a realistic Tier 1 IT support environment to pract
 - **Scripting:** Python scripts (in development) to simulate random permission changes and generate IT support tickets for troubleshooting practice.  
 - **Issue Tracking:** JIRA board set up to manage simulated tickets and track progress.
 
+## Permission Issue Simulator
+
+This Python script simulates real-world access issues by modifying ACL permissions for randomly selected employees. It logs a ticket in CSV format and allows for manual triage in a help desk setting.
+
+- Randomizes users and permission types
+- Works with Linux `setfacl` for realism
+- Designed to be used in a VirtualBox-based IT lab
+- Ticket logs saved to `ticket_log.csv`
+
 ## Tools Used
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) — for virtualization  
