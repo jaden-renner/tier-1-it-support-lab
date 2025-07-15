@@ -1,4 +1,4 @@
-# tier-1-support-lab
+# Tier-1 Support Lab
 
 Tier 1 IT support training lab using Linux (Ubuntu), CLI, JIRA, and scripting for realistic IT scenarios.
 
@@ -42,6 +42,10 @@ This Python script simulates real-world access issues by modifying ACL permissio
 - Designed to be used in a VirtualBox-based IT lab
 - Ticket logs saved to `ticket_log.csv`
 
+To view or download Triage Guide, Click [HERE](https://github.com/jaden-renner/tier-1-it-support-lab/blob/main/Documentation/triage_guide.md)  
+To download Company Directory & Group Access Matrix - Template, Click [HERE](https://github.com/jaden-renner/tier-1-it-support-lab/blob/main/Documentation/Company_UserDirectory_and_AccessMatrix%20-%20Template.xlsx)  
+To download Python Script, Click [HERE](https://github.com/jaden-renner/tier-1-it-support-lab/blob/main/scripts/perm_issue_sim.py)  
+
 ## Tools Used
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) — for virtualization  
@@ -53,8 +57,8 @@ This Python script simulates real-world access issues by modifying ACL permissio
 ## Future Plans
 
 - Complete the Python ticket generator script. ✓
-- Integrate more complex permissions and auditing tools.  
-- Expand the lab with network services like Samba and log monitoring.
+- Integrate more complex permissions and auditing tools. **(WIP)**
+- Expand the lab with network services like Samba and log monitoring. **(WIP)**
 
 ## License
 
